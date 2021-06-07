@@ -1,0 +1,44 @@
+body{
+    font-family: 'Acme', sans-serif;
+ background-color: aqua;
+}
+.header_div{
+ background-color:transparent;
+ color: rgb(0, 0, 0);
+}
+.header_div img{
+    width: 100px;
+    border-radius: 50px; 
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+}
+.main_div{
+    background-color:white;
+    padding: 10px;
+    margin-top: 15px;
+    border:3px solid black;
+    color: white;
+    width: 500px;
+    margin-left: 100px;
+}
+.main_div label{
+    background-color: navy;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px navy;
+}
+#camera{
+    border: 2px solid black;
+    width: 310px;
+    height: 260px;
+    box-shadow:5px 5px 18px navy ;
+}
+.main_div button{
+ width: 310px;
+ font-size: 16px;
+ box-shadow:5px 5px 18px navy;
+}
+
+   
